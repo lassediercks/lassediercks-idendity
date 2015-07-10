@@ -1,0 +1,29 @@
+{
+  "name": "lassediercks-idendity",
+  "version": "0.0.1",
+  "description": "corporate identiy of lassediercks",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lassediercks/lassediercks-idendity.git"
+  },
+  "dependencies":{
+    "bower": "^1.4.1",
+    "css-loader": "^0.10.1",
+    "json-loader": "^0.5.2",
+    "node-libs-browser": "^0.5.2",
+    "sass-loader": "^0.6.0",
+    "style-loader": "^0.10.2",
+    "webpack": "^1.10.0",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "author": "@lassediercks",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/lassediercks/lassediercks-idendity/issues"
+  },
+  "homepage": "https://github.com/lassediercks/lassediercks-idendity"
+}
